@@ -1,0 +1,8 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "lib": ["ES2022", "WebWorker"],
+    "types": ["vite/client", "@cloudflare/vitest-plugin/types"]
+  },
+  "include": ["src/server", "src/shared", "src/worker-env.d.ts", "test/worker"]
+}
