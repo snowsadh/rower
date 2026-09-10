@@ -1,4 +1,6 @@
-<h1 align="center">rower<span style="color: #176e4c">.</span></h1>
+<p align="center">
+  <a href="https://rower.snoe.workers.dev"><img src="public/wordmark.svg" width="190" alt="rower." /></a>
+</p>
 
 <p align="center">
   AI spreadsheet workspace for bulk transformations. BYOK.
