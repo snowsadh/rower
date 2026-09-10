@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="public/favicon.svg" width="72" height="72" alt="Rower logo" />
-</p>
-
-<h1 align="center">Rower</h1>
+<h1 align="center">rower<span style="color: #176e4c">.</span></h1>
 
 <p align="center">
   AI spreadsheet workspace for bulk transformations. BYOK.
