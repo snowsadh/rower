@@ -1,5 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="260" height="72" viewBox="0 0 260 72" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="68" viewBox="0 0 190 68" role="img" aria-labelledby="title">
   <title id="title">rower.</title>
-  <text x="2" y="56" fill="#243c35" font-family="Bricolage Grotesque, Arial Rounded MT Bold, Trebuchet MS, sans-serif" font-size="56" font-weight="800" letter-spacing="-4">rower</text>
-  <circle cx="247" cy="52" r="5.5" fill="#176e4c"/>
+  <style>
+    .word { fill: #243c35; }
+    .period { fill: #176e4c; }
+    @media (prefers-color-scheme: dark) {
+      .word { fill: #f5f8ed; }
+      .period { fill: #61d39b; }
+    }
+  </style>
+  <text class="word" x="2" y="54" font-family="Bricolage Grotesque, Arial Rounded MT Bold, Trebuchet MS, sans-serif" font-size="56" font-weight="800" letter-spacing="-4">rower<tspan class="period">.</tspan></text>
 </svg>

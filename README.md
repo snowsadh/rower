@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://rower.snoe.workers.dev"><img src="public/wordmark.svg" width="190" alt="rower." /></a>
+  <a href="https://rower.snoe.workers.dev"><img src="public/wordmark.svg" width="160" alt="rower." /></a>
 </p>
 
 <p align="center">
