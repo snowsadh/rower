@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rower.snorower.workers.dev"><strong>Open Rower</strong></a>
+  <a href="https://rower.snoe.workers.dev"><strong>Open Rower</strong></a>
 </p>
 
 Rower runs one task across every row in a CSV or Excel file. Choose which columns the model may read, define the columns it should produce, test three rows, then process the rest in controlled batches and export the updated sheet.
@@ -26,7 +26,7 @@ It works with OpenAI, Anthropic, OpenRouter, and public OpenAI-compatible APIs u
 
 ## Use it
 
-Open the [live app](https://rower.snorower.workers.dev) and click **Start rowing**.
+Open the [live app](https://rower.snoe.workers.dev) and click **Start rowing**.
 
 1. Upload a sheet or use the sample.
 2. Select the input columns and describe the output you need.
