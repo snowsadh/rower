@@ -5,11 +5,7 @@
 <h1 align="center">Rower</h1>
 
 <p align="center">
-  The row-by-row work, minus the row-by-row part.
-</p>
-
-<p align="center">
-  <a href="https://rower.snoe.workers.dev"><strong>Open Rower</strong></a>
+  AI spreadsheet workspace for bulk transformations. BYOK.
 </p>
 
 Rower runs one task across every row in a CSV or Excel file. Choose which columns the model may read, define the columns it should produce, test three rows, then process the rest in controlled batches and export the updated sheet.
